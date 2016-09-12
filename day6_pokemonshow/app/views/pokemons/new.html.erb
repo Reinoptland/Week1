@@ -1,0 +1,14 @@
+<h1>Breed a new Pokemon!</h1>
+
+<%= form_for @pokemon do |f| %>
+    <%= f.label :name %>
+    <%= f.text_field :name %>
+
+    <%= f.label :cp %>
+    <%= f.number_field :cp %>
+
+    <%= f.label :image_url %>
+    <%= f.text_field :image_url %>
+
+    <%= f.submit "Create" %>
+<% end %>
