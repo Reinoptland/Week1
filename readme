@@ -1,0 +1,17 @@
+* Week 1 Codaisseur *
+
+This repository contains my exercises from week 1 of the Codaisseur program.
+I keep this repository around as a reference of what I learned during my 2 months training.
+
+Contents
+
+Day 2 - Basic Ruby programming - datatypes, methods, conditional statements.
+
+Day 3 - Basic Ruby programming - loops, iterators
+
+Day 4 - Object oriented programming - classes, instances
+
+Day 5 - An intro to the web & Sinatra - A simple CRUD contact manager app using Sinatra
+
+Day 6 - Ruby on Rails - My first RoR app -- pokemonshow! Another CRUD app but this time using RoR.
+
